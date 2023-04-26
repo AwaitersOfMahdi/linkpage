@@ -2,11 +2,11 @@ body {
 	width: 100wh;
 	height: 90vh;
 	color: #fff;
-	background: linear-gradient(-45deg, #02ed41, #1cb845, #2da14c);
+	background: linear-gradient(-45deg, #787a77,#6f706e, #000000);
 	background-size: 400% 400%;
-	-webkit-animation: Gradient 8s ease infinite;
-	-moz-animation: Gradient 8s ease infinite;
-	animation: Gradient 8s ease infinite;
+	-webkit-animation: Gradient 10s ease infinite;
+	-moz-animation: Gradient 10s ease infinite;
+	animation: Gradient 10s ease infinite;
 }
 
 @-webkit-keyframes Gradient {
@@ -90,7 +90,7 @@ h6 {
   .linktree {
 	  width: 120px;
 	  height: 120px;
-	  background-image: url("./IMG_20230426_202632_542.jpg");
+	  background-image: url("./IMG_20230427_012620_321.jpg");
 	  background-size: cover;
 	  background-repeat: no-repeat;
 	  background-position: 50% 50%;
