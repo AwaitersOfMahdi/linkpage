@@ -95,3 +95,14 @@ h6 {
 	  background-repeat: no-repeat;
 	  background-position: 50% 50%;
   }
+  .btn-purple {
+      background-color: #f800ff;
+      border-color: #f800ff;
+      color: #ffffff; /* Set text color to white for better contrast */
+    }
+    
+  .btn-fb {
+      background-color: #1538ff;
+      border-color: #1538ff;
+      color: #ffffff; /* Set text color to white for better contrast */
+    }
